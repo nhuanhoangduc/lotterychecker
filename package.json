@@ -1,0 +1,25 @@
+{
+  "name": "lotterychecker",
+  "version": "1.0.0",
+  "description": "Lottery Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhuanhoangduc/lotterychecker.git"
+  },
+  "keywords": [
+    "lottery",
+    "powerball",
+    "checker",
+    "winner"
+  ],
+  "author": "Nhua Nhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhuanhoangduc/lotterychecker/issues"
+  },
+  "homepage": "https://github.com/nhuanhoangduc/lotterychecker#readme"
+}
