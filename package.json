@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nhuanhoangduc/lotterychecker/issues"
   },
-  "homepage": "https://github.com/nhuanhoangduc/lotterychecker#readme"
+  "homepage": "https://github.com/nhuanhoangduc/lotterychecker#readme",
+  "dependencies": {
+    "async": "^2.1.2"
+  }
 }
