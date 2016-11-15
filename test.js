@@ -43,7 +43,7 @@ let getRandomArr = (a, numberOfElements) => {
     return shuffle(arr);
 };
 
-describe('Winning number: 1-2-3-4-5-6', function() {
+describe('Winning number: ' + winNum.join('-'), function() {
     let whiteBalls = winNum.slice(0, winNum.length - 1 );
     let redBall = winNum[winNum.length - 1];
     let looptimes = 10;
