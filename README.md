@@ -1,5 +1,6 @@
 # lotterychecker
 Powerball
+
 Go inside project. Type command:
 ```javascript
 npm install
