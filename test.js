@@ -109,7 +109,7 @@ describe('Winning number: 1-2-3-4-5-6', function() {
                 let result = Checker.checkWinningNumber(ticket, winNum);
                 should.exist(result);
 
-                // 4/5 white + powerball
+                // 4/5 white
                 result.should.be.eql(LOTTERY_PRIZE.powerball[3]);
             });
         }
@@ -142,7 +142,7 @@ describe('Winning number: 1-2-3-4-5-6', function() {
                 let result = Checker.checkWinningNumber(ticket, winNum);
                 should.exist(result);
 
-                // 3/5 white + powerball
+                // 3/5 white
                 result.should.be.eql(LOTTERY_PRIZE.powerball[5]);
             });
         }
